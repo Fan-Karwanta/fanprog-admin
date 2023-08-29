@@ -1,4 +1,6 @@
 # Just a simple website design
+Tech Used:
+
 Using HTML, CSS, JavaScript
 
 # Design
